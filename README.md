@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center">Привет 👋 Меня зовут Виталий!</h1>
+<h3 align="center">Я начинающий Android-developer, мой путь в it начался с небольшого курса на Stepik. После этого я понял, что мне нравиться мобильная разработка, и я прошел курсы от Skillbox "профессия Android-разработчик", теперь разрабатываю приложение на Jetpack Compose и нахожусь в поисках работы</h3>
+<h3 align="left">-🤝конкаты для связи под фоткой профиля</h3>
 
-<!--
-**vitaliy0004/vitaliy0004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="left">Язык разработки:</h1>
+<p align="left"> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+<h5 align="left">kotlin</h5>
+<h1 align="left">Мой стек:</h1>
+<h3 align="left">-Retrofit</h3>
+<h3 align="left">-Json && Moshi</h3>
+<h3 align="left">-OkHttp</h3>
+<h3 align="left">-Room Database</h3>
+<h3 align="left">-Dagger && Hilt && Koin</h3>
+<h3 align="left">-MVVM</h3>
+<h3 align="left">-data binding</h3>
+<h3 align="left">-XML-Верстка</h3>
+<h3 align="left">-Jetpack Compose</h3>
+<h3 align="left">-RecyclerView</h3>
+<h3 align="left">-Paging Library</h3>
+<h3 align="left">-ViewPager</h3>
+<h3 align="left">-Navigation</h3>
+<h3 align="left">-Coroutines</h3>
+<h3 align="left">-Работа с геопозиционированием</h3>
+<h3 align="left">-Работа с защищёнными разделами ОС(камера,хранилище,список контактов)</h3>
+<h3 align="left">-Firebase</h3>
+<h3 align="left">-GitHub && GitLab</h3>
+<h3 align="left">-собственные View и анимации</h3>
+<h3 align="left">-Lottie</h3>
+<h3 align="left">-WorkManager && AlarmManager</h3>
+<h3 align="left">-SOLID</h3>
+<h3 align="left">-Clean Architecture</h3>
+<h2 align="left">Каждая технология закреплена проектом в () репозитории</h2>
