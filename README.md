@@ -29,4 +29,4 @@
 <h3 align="left">-WorkManager && AlarmManager</h3>
 <h3 align="left">-SOLID</h3>
 <h3 align="left">-Clean Architecture</h3>
-<h2 align="left">Каждая технология закреплена проектом в () репозитории</h2>
+<h2 align="left">Каждая технология закреплена проектом, в репозитории Training-Projects</h2>
