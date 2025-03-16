@@ -1,9 +1,9 @@
 <h1 align="center">Привет! 👋 Я Виталий, Android-разработчик</h1>
-<h1 align="left">🤝 нахожусь в поиске работы в сфере Android-разработки, конкаты для связи под фоткой профиля</h1>
-<h1 align="left">Язык разработки:</h1>
+<h2 align="left">🤝 нахожусь в поиске работы в сфере Android-разработки, конкаты для связи под фоткой профиля</h2>
+<h2 align="left">Язык разработки:</h2>
 <p align="left"> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 <h5 align="left">kotlin</h5>
-<h1 align="left">📍Мой стек:</h1>
+<h2 align="left">📍Мой стек:</h2>
 <h3 align="left">✅ Архитектура и принципы:</h3>
 <h4 align="left">Clean Architecture, SOLID, MVVM, многомодульная архитектура</h4>
 <h3 align="left">✅ UI:</h3>
