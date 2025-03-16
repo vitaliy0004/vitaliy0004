@@ -6,7 +6,7 @@
 <h5 align="left">kotlin</h5>
 <h1 align="left">Мой стек:</h1>
 <h3 align="left">✅ Архитектура и принципы:</h3>
-<h5 align="left">Clean Architecture, SOLID, MVVM, многомодульная архитектура</h5>
+<h4 align="left">Clean Architecture, SOLID, MVVM, многомодульная архитектура</h4>
 <h3 align="left">✅ UI:</h3>
 <h5 align="left">Jetpack Compose, XML, Data Binding, RecyclerView, ViewPager, Navigation</h5>
 <h3 align="left">✅ Работа с сетью:</h3>
